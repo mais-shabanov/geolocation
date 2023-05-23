@@ -1,4 +1,4 @@
-package com.example.geolocation;
+package com.example.geolocation.controller;
 
 import com.example.geolocation.dto.request.BuildingRequest;
 import com.example.geolocation.dto.response.BuildingResponse;
